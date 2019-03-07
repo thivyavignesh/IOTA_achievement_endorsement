@@ -1,7 +1,3 @@
-///////////////////////////////
-// Send HELLOWORLD
-///////////////////////////////
-
 const iotaLibrary = require('@iota/core')
 const Trytes = require('trytes');
 
@@ -116,12 +112,6 @@ function revokeCertificate(addr1, addr, certificate, timesta){
 
 
 //verifyInstitute(address_insti, 'Institution')
-
-
 //checkInstitude(address_insti)
-
-
-
 //giveCertificate(address_insti, address_individual_1, 'certificate_new_3', Date.now())
-
-revokeCertificate(address_insti, address_individual_2, 'certificate_new_2', Date.now())
+//revokeCertificate(address_insti, address_individual_2, 'certificate_new_2', Date.now())
