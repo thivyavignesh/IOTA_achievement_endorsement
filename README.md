@@ -15,4 +15,14 @@ The system is implemented in JAVA as well as Javascript. Both versions have the 
 The javascript version is explained here.
 The link to the JAVA version is : https://github.com/yangfangbosco/CertificateManagementSystem
 
+### Code Execution
+
+```bash
+git clone https://github.com/thivyavignesh/IOTA_achievement_endorsement.git
+cd IOTA_achievement_endorsement
+npm i
+node Certificate_iota_workshop_Individual.js
+node Certificate_iota_workshop_Organization.js
+```
+
 ### Code Explanation
