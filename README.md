@@ -26,3 +26,17 @@ node Certificate_iota_workshop_Organization.js
 ```
 
 ### Code Explanation
+
+All the outputs are displayed in the console. However, this code can be integrated with an user interface with slight tweaks.
+
+Certificate_iota_workshop_Organization.js:
+
+Function verifyInstitute: To add the blockchain address and the corresponding name of the organisation to the blockchain.
+Function checkInstitude: To find the name of the organization for the associated blockchain address.
+Function giveCertificate: To endorse certificate/achievement of an individual by the organization responsible.
+Function revokeCertificate: To revoke previously endorsed certificate/achievement of an individual by the organization responsible.
+
+Certificate_iota_workshop_Individual.js:
+
+Function verifyStudent: To add the blockchain address and the corresponding name of the individual to the blockchain.
+Function checkStudent: To find the name of the individual for the associated blockchain address.
