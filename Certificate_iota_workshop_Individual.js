@@ -1,7 +1,3 @@
-///////////////////////////////
-// Send HELLOWORLD
-///////////////////////////////
-
 const iotaLibrary = require('@iota/core')
 const Trytes = require('trytes');
 
@@ -67,7 +63,5 @@ function checkStudent(addr){
 
 
 //verifyStudent(address_individual_1, 'Tong')
-
 //verifyStudent(address_individual_2, 'Vignesh')
-
-checkStudent(address_individual_2)
+//checkStudent(address_individual_2)
